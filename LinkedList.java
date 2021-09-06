@@ -33,6 +33,10 @@ public class LinkedList {
         }
     }
 
+    public Node getHead() {
+        return head;
+    }
+
     /*
     public static void main(String[] args) {
         // Create an empty linked list
